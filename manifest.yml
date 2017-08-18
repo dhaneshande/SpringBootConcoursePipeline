@@ -1,6 +1,6 @@
 applications:
 - name: springboot-rest
-  memory: 512M
+  memory: 700M
   instances: 1
   random-route: true
   timeout: 180
