@@ -1,0 +1,9 @@
+applications:
+- name: springboot-rest
+  memory: 512M
+  instances: 1
+  random-route: true
+  timeout: 180
+  #path: built-project/demo.jar
+  env:
+    JAVA_OPTS: -Djava.security.egd=file:///dev/urando
