@@ -2,7 +2,7 @@ resources:
 - name: SpringBootSimpleRest
   type: git
   source:
-    uri: https://github.com/papicella/SpringBootSimpleRest
+    uri: https://github.com/dhaneshande/SpringBootConcoursePipeline.git
     branch: master
 - name: resource-deploy-web-app
   type: cf
