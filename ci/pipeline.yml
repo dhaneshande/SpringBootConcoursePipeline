@@ -26,4 +26,3 @@ jobs:
     params:
       manifest: SpringBootSimpleRest/manifest.yml
       path: built-project/demo.jar
-
